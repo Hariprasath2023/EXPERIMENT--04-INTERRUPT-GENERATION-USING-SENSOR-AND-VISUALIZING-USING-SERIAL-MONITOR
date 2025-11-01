@@ -1,10 +1,5 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 27.09.2025
-
-###  NAME: LOKESH REDDY A
-###  ROLL NO :212223040104
-###  DEPARTMENT: B.E (CSE)
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
